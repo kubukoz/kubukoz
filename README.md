@@ -1,4 +1,4 @@
-Hi!
+# Hi!
 
 My name is Jakub Kozłowski. I'm a software engineer, currently working at [Ocado Technology](https://ocadotechnology.com/).
 
