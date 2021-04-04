@@ -12,7 +12,6 @@ This is where I should be the most active in public contributions.
 
 ### Actively working on
 
-- [cats-effect 3](https://github.com/typelevel/cats-effect): [migration guide](https://github.com/typelevel/cats-effect/issues/1048)
 - [spotify-next](https://github.com/kubukoz/spotify-next): support for frontend clients
 - [my Nix config](https://github.com/kubukoz/nix-config): migrating packages from brew, hopefully adding them to nixpkgs upstream
 
