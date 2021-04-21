@@ -12,9 +12,12 @@ This is where I should be the most active in public contributions.
 
 ### Actively working on
 
-- [spotify-next](https://github.com/kubukoz/spotify-next): support for frontend clients
-- [my Nix config](https://github.com/kubukoz/nix-config): migrating packages from brew, hopefully adding them to nixpkgs upstream
+- work
+- making a talk for [YOW](https://yowconference.com/lambdajam)
 
 ### OSS plans
 
+- [spotify-next](https://github.com/kubukoz/spotify-next): support for frontend clients
+- [my Nix config](https://github.com/kubukoz/nix-config)
 - toy language with integrated tooling: vscode syntax / LSP server, compiled to JVM bytecode / llvm / x86. Some progress in [kubukoz/slang](https://github.com/kubukoz/slang)
+- tons of more stuff
