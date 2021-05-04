@@ -12,8 +12,7 @@ This is where I should be the most active in public contributions.
 
 ### Actively working on
 
-- work
-- making a talk for [YOW](https://yowconference.com/lambdajam)
+- migrating blog to Zola
 
 ### OSS plans
 
