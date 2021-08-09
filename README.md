@@ -12,11 +12,12 @@ This is where I should be the most active in public contributions.
 
 ### Actively working on
 
-- migrating blog to Zola
+- [my Nix config](https://github.com/kubukoz/nix-config)
+- essentially nothing open source right now
 
 ### OSS plans
 
 - [spotify-next](https://github.com/kubukoz/spotify-next): support for frontend clients
-- [my Nix config](https://github.com/kubukoz/nix-config)
+- migrating blog to Zola
 - toy language with integrated tooling: vscode syntax / LSP server, compiled to JVM bytecode / llvm / x86. Some progress in [kubukoz/slang](https://github.com/kubukoz/slang)
 - tons of more stuff
